@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015, fixing them with style and caffeine.<br>📚 I'm currently learning advanced .NET technologies, Azure cloud solutions, and exploring creative ways to optimize software architecture.<br>🎯 Goals: Build impactful projects, contribute to open source, and master Polish while crafting clean, efficient code.<br>🎲 Fun fact: I once spent 6 hours debugging, only to find it was a missing semicolon.</p>
+<p align="left">✨ Creating bugs since 2005, fixing them with style and caffeine.<br>📚 I'm currently learning advanced .NET technologies, Azure cloud solutions, and exploring creative ways to optimize software architecture.<br>🎯 Goals: Build impactful projects, contribute to open source, and master Polish while crafting clean, efficient code.<br>🎲 Fun fact: I once spent 6 hours debugging, only to find it was a missing semicolon.</p>
 
 ###
 
