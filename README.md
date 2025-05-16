@@ -18,7 +18,7 @@ Outside of coding, I enjoy movies, books, and imagining what life would be like 
 
 ## Current Work
 
-I’m currently working as a .NET developer at [DAT Computer Concepts](https://datcomputerconcepts.com), where I’m part of an amazing team building [ISETIA](https://isetia.com) — a comprehensive project management platform.
+I’m currently working as a .NET developer at [DAT Computer Concepts](https://datcc.pl/en/), where I’m part of an amazing team building [ISETIA](https://isetia.com) — a comprehensive project management platform.
 
 It’s a challenging and rewarding journey where I contribute to designing and developing scalable backend features, optimizing performance, and delivering enterprise-level solutions. Collaborating with such a talented and supportive team has been one of the highlights of my professional path so far.
 
