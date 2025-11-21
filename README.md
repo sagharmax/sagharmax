@@ -8,7 +8,7 @@ It all started in 2005, with a slow PC, a cracked copy of Visual Studio (oops �
 Fast-forward nearly 20 years, and here I am — still writing code, but now with cleaner syntax and fewer bugs (most of the time).  
 My name is **Saeid Ghasemi**, and I'm a .NET developer who’s been through it all: Web Forms, WinForms, WPF, MVC, .NET Core, and now .NET 9.
 
-What I love most? Turning complex ideas into elegant, maintainable solutions. Whether it’s building APIs, architecting full systems, or just helping a team ship faster — I’m all in, usually with too much coffee and the dark theme on.  
+What do I love most? Turning complex ideas into elegant, maintainable solutions. Whether it’s building APIs, architecting full systems, or just helping a team ship faster — I’m all in, usually with too much coffee and the dark theme on.  
 Outside of coding, I enjoy movies, books, and imagining what life would be like if production never had bugs.
 
 **⚡ TL;DR**  
