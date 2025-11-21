@@ -59,7 +59,7 @@ It’s a challenging and rewarding journey where I contribute to designing and d
 
 <div align="left">
   <a href="https://sagharmax.com/" target="_blank">
-    <img src="https://sagharmax.com/images/Saeid_Ghasemi.JPEG" width="52" height="40" alt="Saeid Ghasemi's logo" />
+    <img src="https://sagharmax.com/images/Saeid_Ghasemi.ico" width="52" height="40" alt="Saeid Ghasemi's logo" />
   </a>
   <a href="https://www.linkedin.com/in/sagharmax/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
