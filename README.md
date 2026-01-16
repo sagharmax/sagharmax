@@ -2,7 +2,7 @@
 
 <p align="left">My name is Saeid and I'm a Software Developer.</p>
 
-## About Me
+## About Me;
 
 It all started in 2005, with a slow PC, a cracked copy of Visual Studio (oops — back then there was no Community Edition!), and zero clue what a "namespace" was. I wrote my first "Hello World" and thought: *Wow, I’m basically a hacker now.*  
 Fast-forward nearly 20 years, and here I am — still writing code, but now with cleaner syntax and fewer bugs (most of the time).  
