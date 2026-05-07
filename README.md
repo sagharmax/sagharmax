@@ -1,44 +1,53 @@
 # Saeid Ghasemi
+**.NET Developer · Backend Architecture · Nearly 20 Years of Experience**
 
-**.NET Developer | 20 Years of Experience | Backend Architecture**
-
-I'm a .NET developer with nearly 20 years of hands-on experience building software that solves real business problems — from desktop applications in WPF to scalable web platforms in ASP.NET Core.
-
-I specialize in designing clean architectures, building reliable APIs, and delivering maintainable solutions that teams can grow with.
+I design and build backend systems in the .NET ecosystem — from desktop applications in WPF to scalable web platforms in ASP.NET Core. I focus on clean architecture, reliable APIs, and solutions teams can actually maintain and grow with.
 
 ---
 
-## Current Work
+## 🚀 Current Work
 
-I currently work as a .NET developer at [DAT Computer Concepts](https://datcc.pl/en/), where I help build [ISETIA](https://isetia.com) — an enterprise project management platform. My focus is on backend architecture, API development, and performance optimization.
+I'm a .NET developer at [DAT Computer Concepts](https://datcc.pl/en/), working on [**ISETIA**](https://isetia.com) — an enterprise project management platform used to plan, execute, and control complex projects.
+
+My day-to-day focus:
+- **Backend architecture** — designing maintainable services and APIs in ASP.NET Core
+- **Data access** — EF Core and Dapper against SQL Server, plus a custom dynamic query engine for flexible reporting
+- **Performance** — optimizing DevExtreme grids with server-side filtering, paging, and editing
+- **Integrations** — REST APIs, Azure Entra ID, and third-party services like Autodesk BIM 360
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+**Core:** C# · .NET 9 · ASP.NET Core · EF Core · Dapper
+**Data:** SQL Server · SQLite
+**Cloud & DevOps:** Azure · Azure DevOps (Pipelines, Repos) · Docker
+**Auth & Integration:** Azure Entra ID · REST APIs · OAuth 2.0
+**Frontend (when needed):** JavaScript · DevExtreme · Bootstrap
+**Tools:** Visual Studio · VS Code · Git
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="NuGet" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,git,js,vscode,visualstudio" alt="Tech stack" />
 </div>
 
 ---
 
-## Connect
+## 💼 Selected Projects
+
+- **[ISETIA](https://isetia.com)** — Enterprise project management platform. Backend services, dynamic query engine, BIM 360 integration.
+- **Siamor** — Jewelry e-commerce site built with ASP.NET Core MVC.
+- **Banking integration platform** — Central banking system integration with account lookup, fraud detection, and async SMS messaging. 100+ users.
+- **Municipal tax systems** — Multiple production systems for income classification, vehicle tax, property tax, POS device payments, and installment plans. 500+ users across municipalities.
+- **Clinic communication app** — WPF desktop application connecting doctors, secretaries, and waiting rooms in a small clinic.
+
+More on my [portfolio](https://sagharmax.dev).
+
+---
+
+## 🤝 Connect
 
 <div align="left">
-  <a href="https://sagharmax.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sagharmax.com-6f42c1?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://sagharmax.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sagharmax.dev-6f42c1?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sagharmax/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-sagharmax-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sagharmax" target="_blank"><img src="https://img.shields.io/badge/GitHub-sagharmax-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
