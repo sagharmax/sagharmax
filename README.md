@@ -1,5 +1,5 @@
 # Saeid Ghasemi
-**.NET Developer · Backend Architecture · Nearly 20 Years of Experience**
+**.NET Developer · Backend Architecture · 20+ Years of Experience**
 
 I design and build backend systems in the .NET ecosystem — from desktop applications in WPF to scalable web platforms in ASP.NET Core. I focus on clean architecture, reliable APIs, and solutions teams can actually maintain and grow with.
 
