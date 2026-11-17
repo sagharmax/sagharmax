@@ -19,7 +19,7 @@ My day-to-day focus:
 
 ## 🛠️ Tech Stack
 
-**Core:** C# · .NET 9 · ASP.NET Core · EF Core · Dapper
+**Core:** C# · .NET 11 · ASP.NET Core · EF Core · Dapper
 **Data:** SQL Server · SQLite
 **Cloud & DevOps:** Azure · Azure DevOps (Pipelines, Repos) · Docker
 **Auth & Integration:** Azure Entra ID · REST APIs · OAuth 2.0
